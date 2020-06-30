@@ -1,107 +1,962 @@
 [
   {
-    "accumulationFundMoney": 0,
-    "accumulationFundType": 0,
-    "address": "fortest",
+    "address": "哈哈",
     "auditStatus": 2,
-    "businessLoanBank": "",
-    "businessLoanMoney": 0,
-    "contractNo": "",
-    "customerName": "尔康",
-    "dealDate": 1590422400000,
-    "dealId": 24927,
-    "dealMoney": null,
+    "contractNo": "7898",
+    "customerName": "五十二",
+    "dealDate": 1593446400000,
+    "dealId": 24986,
+    "dealMoney": 3800000000,
+    "discountPercent": 0,
     "discountRemark": "",
-    "discountType": 1,
-    "downPayment": 0,
+    "discountType": 0,
     "index": 1,
-    "loanMoney": 0,
-    "loanType": 0,
-    "loanYearNum": 0,
+    "mergeRows": [
+      1,
+      1
+    ],
     "otherBuyerList": [
       {
-        "buyersName": "变更编辑测",
-        "createTime": 1453098588000,
+        "buyersName": "五十二",
+        "createTime": 1593503328000,
         "gender": 1,
-        "idNumber": "484248548545450055",
-        "otherBuyersId": 21983,
-        "phone": "15349086956",
+        "idNumber": "578899199911116889",
+        "otherBuyersId": 29842,
+        "phone": "15252525252",
         "relationship": "",
-        "type": 2
+        "type": 23
       },
       {
-        "buyersName": "提了",
-        "createTime": 1453098588000,
-        "gender": 2,
-        "idNumber": "185181594646466111",
-        "otherBuyersId": 22002,
-        "phone": "154824545555",
-        "relationship": "",
-        "type": 2
-      },
-      {
-        "buyersName": "我们",
-        "createTime": 1453098588000,
-        "gender": 2,
-        "idNumber": "845496464646645111",
-        "otherBuyersId": 22003,
-        "phone": "158154545411",
-        "relationship": "",
-        "type": 2
+
       }
     ],
     "otherBuyersIds": [
-      22003,
-      21983,
-      22002
+      29842
     ],
-    "payDate": 1590422400000,
-    "payType": 3,
-    "payment": 5000000000,
-    "phone": "+8615789664499",
+    "payStages": [
+      36900000000,
+      7600000000
+    ],
+    "payType": 2,
+    "phone": "+8615252525252",
     "reductionValue": 0,
-    "roomFullName": "321501",
-    "unitPrice": 250000000
+    "roomFullName": "31201",
+    "unitPrice": 30000000
   },
   {
-    "accumulationFundMoney": 500000000,
-    "accumulationFundType": 2,
-    "address": "fortest",
+    "address": "没有",
     "auditStatus": 2,
-    "businessLoanBank": "",
-    "businessLoanMoney": 0,
-    "contractNo": "",
-    "customerName": "一个",
-    "dealDate": 1588608000000,
-    "dealId": 24925,
-    "dealMoney": 15000000000,
+    "contractNo": "788",
+    "customerName": "空",
+    "dealDate": 1593446400000,
+    "dealId": 24985,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
     "discountRemark": "",
-    "discountType": 4,
-    "downPayment": 10000000000,
+    "discountType": 0,
     "index": 2,
-    "loanMoney": 5000000000,
-    "loanType": 2,
-    "loanYearNum": 30,
+    "mergeRows": [
+      1,
+      1,
+      1
+    ],
     "otherBuyerList": [
       {
-        "buyersName": "一个",
-        "createTime": 1588832811000,
+        "buyersName": "空",
+        "createTime": 1593502705000,
+        "gender": 1,
+        "idNumber": "577998199911115667",
+        "otherBuyersId": 29837,
+        "phone": "15780999669",
+        "relationship": "",
+        "type": 0
+      },
+      {
+
+      },
+      {
+
+      }
+    ],
+    "otherBuyersIds": [
+      29837
+    ],
+    "payStages": [
+      3600000000,
+      10000000000,
+      20000000000
+    ],
+    "payType": 2,
+    "phone": "+8615780999669",
+    "reductionValue": 0,
+    "roomFullName": "31104",
+    "unitPrice": 30000000
+  },
+  {
+    "address": "没有",
+    "auditStatus": 2,
+    "contractNo": "6890",
+    "customerName": "林",
+    "dealDate": 1593446400000,
+    "dealId": 24984,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 3,
+    "mergeRows": [
+      1,
+      1,
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "林",
+        "createTime": 1593502426000,
+        "gender": 1,
+        "idNumber": "341232199911113456",
+        "otherBuyersId": 29835,
+        "phone": "13350962800",
+        "relationship": "",
+        "type": 0
+      },
+      {
+
+      },
+      {
+
+      }
+    ],
+    "otherBuyersIds": [
+      29835
+    ],
+    "payStages": [
+      3600000000,
+      5800000000,
+      6900000000
+    ],
+    "payType": 2,
+    "phone": "+8613350962800",
+    "reductionValue": 0,
+    "roomFullName": "31103",
+    "unitPrice": 30000000
+  },
+  {
+    "address": "订单",
+    "auditStatus": 0,
+    "contractNo": "2323",
+    "customerName": "三",
+    "dealDate": 1593446400000,
+    "dealId": 24983,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 4,
+    "mergeRows": [
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "三",
+        "createTime": 1593498887000,
         "gender": 1,
         "idNumber": "",
-        "otherBuyersId": 29550,
-        "phone": "15566665555",
+        "otherBuyersId": 29834,
+        "phone": "15123232222",
         "relationship": "",
         "type": 3
       }
     ],
     "otherBuyersIds": [
-      29550
+      29834
+    ],
+    "payStages": [
+      6000000000
+    ],
+    "payType": 2,
+    "phone": "+8615123232222",
+    "reductionValue": 0,
+    "roomFullName": "321201",
+    "unitPrice": 30000000
+  },
+  {
+    "address": "订单",
+    "auditStatus": 2,
+    "contractNo": "322",
+    "customerName": "二",
+    "dealDate": 1593446400000,
+    "dealId": 24982,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 5,
+    "mergeRows": [
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "二",
+        "createTime": 1593498777000,
+        "gender": 1,
+        "idNumber": "",
+        "otherBuyersId": 29833,
+        "phone": "15122211111",
+        "relationship": "",
+        "type": 3
+      }
+    ],
+    "otherBuyersIds": [
+      29833
+    ],
+    "payStages": [
+      3000000000
+    ],
+    "payType": 2,
+    "phone": "+8615122211111",
+    "reductionValue": 0,
+    "roomFullName": "321404",
+    "unitPrice": 30000000
+  },
+  {
+    "address": "腾讯",
+    "auditStatus": 2,
+    "contractNo": "7899",
+    "customerName": "五十一",
+    "dealDate": 1593446400000,
+    "dealId": 24981,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 6,
+    "mergeRows": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "五十一",
+        "createTime": 1593502599000,
+        "gender": 1,
+        "idNumber": "578909199812126899",
+        "otherBuyersId": 29836,
+        "phone": "15151515151",
+        "relationship": "",
+        "type": 0
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      }
+    ],
+    "otherBuyersIds": [
+      29836
+    ],
+    "payStages": [
+      6900000000,
+      10000000000,
+      3600000000,
+      1000000000,
+      1000000000
+    ],
+    "payType": 2,
+    "phone": "+8615151515151",
+    "reductionValue": 0,
+    "roomFullName": "311104",
+    "unitPrice": 30000000
+  },
+  {
+    "address": "123",
+    "auditStatus": 2,
+    "contractNo": "123",
+    "customerName": "十八",
+    "dealDate": 1592928000000,
+    "dealId": 24979,
+    "dealMoney": 1230000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 1,
+    "index": 7,
+    "mergeRows": [
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "十八",
+        "createTime": 1593503235000,
+        "gender": 1,
+        "idNumber": "",
+        "otherBuyersId": 29841,
+        "phone": "15818181818",
+        "relationship": "",
+        "type": 23
+      }
+    ],
+    "otherBuyersIds": [
+      29841
+    ],
+    "payStages": [
+      0
+    ],
+    "payType": 2,
+    "phone": "+8615818181818",
+    "reductionValue": 123000,
+    "roomFullName": "321403",
+    "unitPrice": 123000
+  },
+  {
+    "accumulationFundMoney": 0,
+    "accumulationFundType": 2,
+    "address": "123",
+    "auditStatus": 2,
+    "businessLoanBank": "中国农业银行",
+    "businessLoanMoney": 110000000,
+    "contractNo": "123",
+    "customerName": "十六",
+    "dealDate": 1592928000000,
+    "dealId": 24978,
+    "dealMoney": 1230000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 1,
+    "downPayment": 110000000,
+    "index": 8,
+    "loanMoney": 110000000,
+    "loanType": 0,
+    "loanYearNum": 11,
+    "mergeRows": [
+
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "十六",
+        "createTime": 1593488038000,
+        "gender": 1,
+        "idNumber": "567777199903125677",
+        "otherBuyersId": 29820,
+        "phone": "15616161616",
+        "relationship": "",
+        "type": 42
+      }
+    ],
+    "otherBuyersIds": [
+      29820
+    ],
+    "payStages": [
+      null
     ],
     "payType": 1,
-    "payment": 0,
-    "phone": "+8615566665555",
+    "phone": "+8615616161616",
+    "reductionValue": 123000,
+    "roomFullName": "321303",
+    "unitPrice": 123000
+  },
+  {
+    "address": "123123",
+    "auditStatus": 2,
+    "contractNo": "123123",
+    "customerName": "六三三",
+    "dealDate": 1592323200000,
+    "dealId": 24977,
+    "dealMoney": 230000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 1,
+    "index": 9,
+    "mergeRows": [
+      1,
+      1,
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "六三三",
+        "createTime": 1593487783000,
+        "gender": 1,
+        "idNumber": "567887200011115667",
+        "otherBuyersId": 29817,
+        "phone": "15363366336",
+        "relationship": "",
+        "type": 42
+      },
+      {
+        "buyersName": "六三三",
+        "createTime": 1593487783000,
+        "gender": 1,
+        "idNumber": "",
+        "otherBuyersId": 29818,
+        "phone": "15363366336",
+        "relationship": "",
+        "type": 42
+      },
+      {
+        "buyersName": "六三三",
+        "createTime": 1593487783000,
+        "gender": 1,
+        "idNumber": "",
+        "otherBuyersId": 29819,
+        "phone": "15363366336",
+        "relationship": "",
+        "type": 42
+      }
+    ],
+    "otherBuyersIds": [
+      29817,
+      29818,
+      29819
+    ],
+    "payStages": [
+      2200000000,
+      2300000000,
+      0
+    ],
+    "payType": 2,
+    "phone": "+8615363366336",
+    "reductionValue": 231000,
+    "roomFullName": "321704",
+    "unitPrice": 12000
+  },
+  {
+    "accumulationFundMoney": 500000000,
+    "accumulationFundType": 1,
+    "address": "嗯",
+    "auditStatus": 0,
+    "businessLoanBank": "中国农业银行",
+    "businessLoanMoney": 1500000000,
+    "contractNo": "788",
+    "customerName": "六四一",
+    "dealDate": 1593446400000,
+    "dealId": 24976,
+    "dealMoney": 2000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "downPayment": 1000000000,
+    "index": 10,
+    "loanMoney": 2000000000,
+    "loanType": 0,
+    "loanYearNum": 20,
+    "mergeRows": [
+
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "六四一",
+        "createTime": 1593487168000,
+        "gender": 1,
+        "idNumber": "678909199801028899",
+        "otherBuyersId": 29814,
+        "phone": "15664164164",
+        "relationship": "",
+        "type": 0
+      }
+    ],
+    "otherBuyersIds": [
+      29814
+    ],
+    "payStages": [
+      null
+    ],
+    "payType": 1,
+    "phone": "+8615664164164",
     "reductionValue": 0,
-    "roomFullName": "311903",
-    "unitPrice": 150000
+    "roomFullName": "321604",
+    "unitPrice": 20000000
+  },
+  {
+    "address": "与",
+    "auditStatus": 2,
+    "contractNo": "78",
+    "customerName": "六四二",
+    "dealDate": 1593446400000,
+    "dealId": 24975,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 11,
+    "mergeRows": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "六四二",
+        "createTime": 1593487768000,
+        "gender": 1,
+        "idNumber": "788998199901017789",
+        "otherBuyersId": 29816,
+        "phone": "15364264264",
+        "relationship": "",
+        "type": 23
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      }
+    ],
+    "otherBuyersIds": [
+      29816
+    ],
+    "payStages": [
+      6900000000,
+      2500000000,
+      3600000000,
+      6900000000,
+      5400000000,
+      3000000000
+    ],
+    "payType": 2,
+    "phone": "+8615364264264",
+    "reductionValue": 0,
+    "roomFullName": "331901",
+    "unitPrice": 28000000
+  },
+  {
+    "accumulationFundMoney": 500000000,
+    "accumulationFundType": 1,
+    "address": "哦",
+    "auditStatus": 2,
+    "businessLoanBank": "中国农业银行",
+    "businessLoanMoney": 1500000000,
+    "contractNo": "哦",
+    "customerName": "六四三",
+    "dealDate": 1593446400000,
+    "dealId": 24974,
+    "dealMoney": 2000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "downPayment": 1000000000,
+    "index": 12,
+    "loanMoney": 2000000000,
+    "loanType": 0,
+    "loanYearNum": 20,
+    "mergeRows": [
+
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "六四三",
+        "createTime": 1593486304000,
+        "gender": 1,
+        "idNumber": "358898199902038888",
+        "otherBuyersId": 29808,
+        "phone": "15664364364",
+        "relationship": "",
+        "type": 0
+      }
+    ],
+    "otherBuyersIds": [
+      29808
+    ],
+    "payStages": [
+      null
+    ],
+    "payType": 1,
+    "phone": "+8615664364364",
+    "reductionValue": 0,
+    "roomFullName": "331902",
+    "unitPrice": 20000000
+  },
+  {
+    "address": "好",
+    "auditStatus": 2,
+    "contractNo": "79",
+    "customerName": "六三九",
+    "dealDate": 1593446400000,
+    "dealId": 24973,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 13,
+    "mergeRows": [
+
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "六三九",
+        "createTime": 1593484631000,
+        "gender": 1,
+        "idNumber": "267788199911117889",
+        "otherBuyersId": 29781,
+        "phone": "15963963988",
+        "relationship": "",
+        "type": 0
+      }
+    ],
+    "otherBuyersIds": [
+      29781
+    ],
+    "payDate": 1593446400000,
+    "payStages": [
+      null
+    ],
+    "payType": 3,
+    "payment": 3000000000,
+    "phone": "+8615963963988",
+    "reductionValue": 0,
+    "roomFullName": "321804",
+    "unitPrice": 30000000
+  },
+  {
+    "accumulationFundMoney": 500000000,
+    "accumulationFundType": 1,
+    "address": "回",
+    "auditStatus": 2,
+    "businessLoanBank": "中国农业银行",
+    "businessLoanMoney": 1500000000,
+    "contractNo": "780",
+    "customerName": "六三八",
+    "dealDate": 1593446400000,
+    "dealId": 24972,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "downPayment": 1000000000,
+    "index": 14,
+    "loanMoney": 2000000000,
+    "loanType": 0,
+    "loanYearNum": 20,
+    "mergeRows": [
+
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "六三八",
+        "createTime": 1593484397000,
+        "gender": 1,
+        "idNumber": "167888200011118889",
+        "otherBuyersId": 29777,
+        "phone": "15363863863",
+        "relationship": "",
+        "type": 0
+      }
+    ],
+    "otherBuyersIds": [
+      29777
+    ],
+    "payStages": [
+      null
+    ],
+    "payType": 1,
+    "phone": "+8615363863863",
+    "reductionValue": 0,
+    "roomFullName": "321904",
+    "unitPrice": 30000000
+  },
+  {
+    "address": "好的",
+    "auditStatus": 2,
+    "contractNo": "783",
+    "customerName": "六三七",
+    "dealDate": 1593446400000,
+    "dealId": 24971,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 15,
+    "mergeRows": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "六三七",
+        "createTime": 1593484273000,
+        "gender": 1,
+        "idNumber": "778988199911117778",
+        "otherBuyersId": 29775,
+        "phone": "15363763763",
+        "relationship": "",
+        "type": 0
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      }
+    ],
+    "otherBuyersIds": [
+      29775
+    ],
+    "payStages": [
+      6900000000,
+      5800000000,
+      3650000000,
+      5800000000,
+      2300000000
+    ],
+    "payType": 2,
+    "phone": "+8615363763763",
+    "reductionValue": 0,
+    "roomFullName": "321601",
+    "unitPrice": 30000000
+  },
+  {
+    "address": "嗯",
+    "auditStatus": 2,
+    "contractNo": "嗯",
+    "customerName": "六三三",
+    "dealDate": 1593446400000,
+    "dealId": 24970,
+    "dealMoney": 3000000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 16,
+    "mergeRows": [
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "六三三",
+        "createTime": 1593488668000,
+        "gender": 1,
+        "idNumber": "567887200011115667",
+        "otherBuyersId": 29824,
+        "phone": "15363366336",
+        "relationship": "",
+        "type": 23
+      }
+    ],
+    "otherBuyersIds": [
+      29824
+    ],
+    "payStages": [
+      123100000000
+    ],
+    "payType": 2,
+    "phone": "+8615363366336",
+    "reductionValue": 0,
+    "roomFullName": "321901",
+    "unitPrice": 30000000
+  },
+  {
+    "address": "嗯嗯嗯嗯嗯嗯嗯嗯",
+    "auditStatus": 2,
+    "contractNo": "788",
+    "customerName": "六三一",
+    "dealDate": 1593446400000,
+    "dealId": 24968,
+    "dealMoney": 3600000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 17,
+    "mergeRows": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "六三一",
+        "createTime": 1593482697000,
+        "gender": 1,
+        "idNumber": "678999200001235788",
+        "otherBuyersId": 29746,
+        "phone": "15363163161",
+        "relationship": "",
+        "type": 0
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      }
+    ],
+    "otherBuyersIds": [
+      29746
+    ],
+    "payStages": [
+      18060000000,
+      2096000000,
+      3065000000,
+      5000000000
+    ],
+    "payType": 2,
+    "phone": "+8615363163161",
+    "reductionValue": 0,
+    "roomFullName": "311101",
+    "unitPrice": 36000000
+  },
+  {
+    "accumulationFundMoney": 0,
+    "accumulationFundType": 2,
+    "address": "dfsdf",
+    "auditStatus": 2,
+    "businessLoanBank": "中国工商银行",
+    "businessLoanMoney": 0,
+    "contractNo": "kkkkkk",
+    "customerName": "十四",
+    "dealDate": 1593360000000,
+    "dealId": 24967,
+    "dealMoney": 30000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 1,
+    "downPayment": 10000000,
+    "index": 18,
+    "loanMoney": 10000000,
+    "loanType": 0,
+    "loanYearNum": 1,
+    "mergeRows": [
+
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "十四",
+        "createTime": 1593483427000,
+        "gender": 1,
+        "idNumber": "666649494994949466",
+        "otherBuyersId": 29757,
+        "phone": "15514141414",
+        "relationship": "",
+        "type": 23
+      }
+    ],
+    "otherBuyersIds": [
+      29757
+    ],
+    "payStages": [
+      null
+    ],
+    "payType": 1,
+    "phone": "+8615514141414",
+    "reductionValue": 4000,
+    "roomFullName": "321203",
+    "unitPrice": 3000
+  },
+  {
+    "address": "123123",
+    "auditStatus": 2,
+    "contractNo": "333",
+    "customerName": "十五",
+    "dealDate": 1593360000000,
+    "dealId": 24966,
+    "dealMoney": 10000000,
+    "discountPercent": 0,
+    "discountRemark": "l",
+    "discountType": 1,
+    "index": 19,
+    "mergeRows": [
+
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "十五",
+        "createTime": 1593432995000,
+        "gender": 1,
+        "idNumber": "356677200011118999",
+        "otherBuyersId": 29710,
+        "phone": "15515151515",
+        "relationship": "",
+        "type": 0
+      }
+    ],
+    "otherBuyersIds": [
+      29710
+    ],
+    "payDate": 1593360000000,
+    "payStages": [
+      null
+    ],
+    "payType": 3,
+    "payment": 3000000000,
+    "phone": "+8615515151515",
+    "reductionValue": 123000,
+    "roomFullName": "321301",
+    "unitPrice": 1000
+  },
+  {
+    "address": "测试",
+    "auditStatus": 2,
+    "contractNo": "12",
+    "customerName": "十六",
+    "dealDate": 1593360000000,
+    "dealId": 24965,
+    "dealMoney": 10000000,
+    "discountPercent": 0,
+    "discountRemark": "",
+    "discountType": 0,
+    "index": 20,
+    "mergeRows": [
+      1,
+      1
+    ],
+    "otherBuyerList": [
+      {
+        "buyersName": "十六",
+        "createTime": 1593433352000,
+        "gender": 1,
+        "idNumber": "348889200011118889",
+        "otherBuyersId": 29712,
+        "phone": "15616161616",
+        "relationship": "",
+        "type": 0
+      },
+      {
+
+      }
+    ],
+    "otherBuyersIds": [
+      29712
+    ],
+    "payStages": [
+      5000000000,
+      2500000000
+    ],
+    "payType": 2,
+    "phone": "+8615616161616",
+    "reductionValue": 0,
+    "roomFullName": "311604",
+    "unitPrice": 1000
   }
 ]

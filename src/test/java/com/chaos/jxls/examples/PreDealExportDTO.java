@@ -8,16 +8,16 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 成交记录导出DTO
+ * 认购记录导出DTO
  */
 @Data
-public class DealExportDTO implements Serializable {
+public class PreDealExportDTO implements Serializable {
 
     @ApiModelProperty("序号")
     private Integer index;
 
-    @ApiModelProperty("成交表id")
-    private Long dealId;
+    @ApiModelProperty("认购表id")
+    private Long preDealId;
 
     @ApiModelProperty("审核状态 0.待审核 1.审核不通过 2.审核通过")
     private Integer auditStatus;
@@ -37,20 +37,26 @@ public class DealExportDTO implements Serializable {
     @ApiModelProperty("买受人列表")
     private List<OtherBuyers> otherBuyerList;
 
-    @ApiModelProperty("成交房号")
+    @ApiModelProperty("房号")
     private String roomFullName;
 
-    @ApiModelProperty("合同编号")
-    private String contractNo;
+    @ApiModelProperty("定金金额")
+    private Long preDealMoney;
+
+    @ApiModelProperty("认购时间")
+    private Date preDealDate;
 
     @ApiModelProperty("成交单价")
     private Long unitPrice;
 
     @ApiModelProperty("成交总价")
-    private Long dealMoney;
+    private Long totalPrice;
 
-    @ApiModelProperty("成交日期")
-    private Date dealDate;
+    @ApiModelProperty("可签约时间")
+    private Date contractTime;
+
+    @ApiModelProperty("可贷款银行名称")
+    private String bankName;
 
     @ApiModelProperty("折扣方式,0.无折扣 1.总价减 2.折扣 3.总价减+折扣")
     private Integer discountType;
@@ -102,4 +108,5 @@ public class DealExportDTO implements Serializable {
 
     @ApiModelProperty(value = "合并行数",notes = "买受人和分期的行数比较值，取大值")
     private List<Integer> mergeRows;
+
 }
